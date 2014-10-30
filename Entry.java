@@ -15,7 +15,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
 /*
- * Class: ScriptureFinder
+ * Class: Entry
  */
 public class Entry {
        
